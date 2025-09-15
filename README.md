@@ -23,6 +23,6 @@ This repository is for **BINUS ASO School of Engineering students 5th semester**
 
 ### Clone the Repository  
 ```bash
-git clone https://github.com/<your-org-or-username>/<repository-name>.git
+git clone https://github.com/willlieeee/<repository-name>.git
 cd <repository-name>
 ```
